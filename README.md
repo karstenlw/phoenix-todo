@@ -1,5 +1,7 @@
 # TodoApp
 
+Original Project: https://github.com/dwyl/phoenix-todo-list-tutorial
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
